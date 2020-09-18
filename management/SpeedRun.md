@@ -17,7 +17,7 @@
 1. 9/16 - 9/22
 	* Manager: Ryan Yang
 	* Goals:
-		1. Make Main Menu Screen
+		1. Make Main Menu Screen.
 		1. Make Basic game loop, player movement
 		1. Make Player Image
 		...
