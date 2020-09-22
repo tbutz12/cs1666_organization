@@ -1,63 +1,61 @@
 # CS1666 Metroidvania Managment weeks
 
 1. 9/2 - 9/8
-	* Manager:
+	* Manager: Kristofer Leo Elmarsson
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Establish Teams
 		...
 1. 9/9 - 9/15
-	* Manager:
+	* Manager: Julian Parayil
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Display Credits via SDL
+		1. N/A
+		1. N/A
 		...
 1. 9/16 - 9/22
-	* Manager:
+	* Manager: Noah Vienneau
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Draw Sprite to screen
+		1. Implement basic movement
+		1. Start work on collision detection
 		...
 1. 9/23 - 9/29
-	* Manager:
+	* Manager: Giovanni Meiser
 	* Goals:
 		1. GOAL1
 		1. GOAL2
 		1. GOAL3
 		...
 1. 9/30 - 10/6
-	* Manager:
+	* Manager: Joey Valentino
 	* Goals:
 		1. GOAL1
 		1. GOAL2
 		1. GOAL3
 		...
 1. 10/7 - 10/13
-	* Manager:
+	* Manager: Jordan Bender
 	* Goals:
 		1. GOAL1
 		1. GOAL2
 		1. GOAL3
 		...
 1. 10/15 - 10/20
-	* Manager:
+	* Manager: Adam Buchinsky
 	* Goals:
 		1. GOAL1
 		1. GOAL2
 		1. GOAL3
 		...
 1. 10/21 - 10/27
-	* Manager:
+	* Manager: Zack Hicks
 	* Goals:
 		1. GOAL1
 		1. GOAL2
 		1. GOAL3
 		...
 1. 10/28 - 11/3
-	* Manager:
+	* Manager: 
 	* Goals:
 		1. GOAL1
 		1. GOAL2
@@ -71,7 +69,7 @@
 		1. GOAL3
 		...
 1. 11/11 - 11/17
-	* Manager:
+	* Manager: Emil Kjenstad
 	* Goals:
 		1. GOAL1
 		1. GOAL2
