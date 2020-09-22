@@ -22,9 +22,9 @@
 1. 9/23 - 9/29
 	* Manager: Giovanni Meiser
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement fps-independent jump, as well as smoother movement.
+		1. Object collision; implement collision tilemap; basic "hurtblock"
+		1. Sprite flags, screen scrolling, draw background
 		...
 1. 9/30 - 10/6
 	* Manager: Joey Valentino
