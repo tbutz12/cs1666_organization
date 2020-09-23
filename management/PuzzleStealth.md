@@ -22,10 +22,11 @@
 4. 9/23 - 9/29
 	* Manager: Celest Hayden
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Character looks in the direction of movement by changing sprite.
+		2. Only one window is used to display all game states.
+		3. Start blocking out class to manage tile properties, such as collision.
+		4. Create basic enemy type with simple movement loop.
+		5. Create hacker window.
 5. 9/30 - 10/6
 	* Manager: Turner Halligan
 	* Goals:
