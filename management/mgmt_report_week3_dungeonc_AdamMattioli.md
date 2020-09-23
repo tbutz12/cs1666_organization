@@ -1,4 +1,4 @@
-# Magagment week end progress report template
+# Management Week 3 Progress Report
 
 Manager Name: Adam Mattioli
 
