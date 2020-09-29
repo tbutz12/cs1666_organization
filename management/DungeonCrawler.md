@@ -28,9 +28,9 @@
 1. 9/30 - 10/6
 	* Manager: Destiny Thompson
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement an inventory (store, equip, pick up and drop).
+		2. Implement enemy item drops (Create a variety of items to test this and work with inventory).
+		3. Create a character from the Character Class (i.e. Health, defense, strength, etc).
 		...
 1. 10/7 - 10/13
 	* Manager: Tristan Possessky
