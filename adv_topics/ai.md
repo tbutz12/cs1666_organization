@@ -11,7 +11,7 @@
     - First game(s) to feature AI
     - First Machine Learning
 
-* How does AI Work?
+* Some Examples of AI
     - Finite State Machine
     - Monte Carlo Search Tree
     
