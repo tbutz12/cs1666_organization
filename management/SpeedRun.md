@@ -28,9 +28,10 @@
 1. 9/30 - 10/6
 	* Manager: Connor Kalina
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Networking goal for next week will be making things multithreaded so the client can connect to the server while the game is playing
+		1. Make movement framerate independent
+		1. Make a camera class
+		1. Extend world/cave depth, adjust algorithm to ensure player can always fit through cave ...
 		...
 1. 10/7 - 10/13
 	* Manager: Alex Pujols
