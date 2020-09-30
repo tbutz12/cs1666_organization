@@ -30,10 +30,11 @@
 5. 9/30 - 10/6
 	* Manager: Turner Halligan
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Start working on networking skeleton code (Set up core functionality: Send data, Receive Data, Check consistency, etc)
+		2. Wall tile graphics. Objective tile graphics (Terminal, Door, Button)
+		3. Get enemy to move relative to global coordinates (Moves independent of camera)
+		4. Write enemy class skeleton code (Ability to draw multiple enemies on the screen. Manage multiple enemy states)
+		5. Get level generation working with static level array. (Draw method)
 6. 10/7 - 10/13
 	* Manager: Connor Robinette
 	* Goals:
