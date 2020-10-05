@@ -29,9 +29,12 @@
 1. 9/30 - 10/6
 	* Manager: Joey Valentino
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. further implement collision with blocks - ai team
+		1. implement player speed ceiling - ai
+		1. implement game state tracking - procedural generation
+		1. screen panning - procedural generation
+		1. fps independant movement - physics
+		1. implement basic platform - physics
 		...
 1. 10/7 - 10/13
 	* Manager: Jordan Bender
