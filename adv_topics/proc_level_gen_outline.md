@@ -4,9 +4,12 @@
 * What is Procedural Generation?
 	* Used to create “unique” worlds, levels, loot, encounters
 	* Different than Random Generation
+	* Commonly uses Noise
 * History and Examples
-	* Use in other media
-		* Graphics / Animation
+	* Early Use in Gaming\
+		* Akalabeth and Rogue
+		* Diablo and Daggerfall
+	* Graphics / Animation
 	* Open World - Worlds
 		* Dwarf Fortress
 		* Minecraft
@@ -16,19 +19,20 @@
 * How does it work?
 	* Basics
 		* Perlin Noise
-		* Fractals
 	* Algorithms
-		* Midpoint Displacement
 		* Diamond Square
+		* Spelunky Case Study
 * Why use Procedural Generation?
 	* Pros
 		* Smaller file sizes
 		* Generate large amounts of content
 		* Extra time available for complex gameplay
 		* Higher replayability
+		* Adjustable Difficulty
 	* Cons
 		* Complexity of implementation
 		* Risk of creating predictable content
+		* Loss of Fine Tuned Control
 * Applying it to our game
 	* Procedurally generated sections connecting premade zones
 	* Generate traversable, fun environments appropriate for current loadout
