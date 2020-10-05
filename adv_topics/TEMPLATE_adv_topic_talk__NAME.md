@@ -19,25 +19,21 @@ the end of the document.
 * PRESENTER NAME HERE
 	* Pacing: 
 	* Clarity of speech: 
-	* Body language: 
 	* Question handling: 
 
 * PRESENTER NAME HERE
 	* Pacing: 
 	* Clarity of speech: 
-	* Body language: 
 	* Question handling: 
 
 * PRESENTER NAME HERE
 	* Pacing: 
 	* Clarity of speech: 
-	* Body language: 
 	* Question handling: 
 
 * PRESENTER NAME HERE
 	* Pacing: 
 	* Clarity of speech: 
-	* Body language: 
 	* Question handling: 
 
 Other comments:
