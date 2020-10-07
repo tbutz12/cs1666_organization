@@ -39,9 +39,10 @@
 1. 10/7 - 10/13
 	* Manager: Jordan Bender
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement natural landing lag after jump, begin laying groundwork for grappling hook by zipping character to point independent of gravity
+		1. Fully integrate tilemap with collision detection and tile placement, implement basic enemy
+		1. Design templates for basic room layouts to generate, randomize enemy placement within rooms
+		1. Cleanup of main code, including moving certain things to functions, commenting, etc., simple player animations, add pause menu
 		...
 1. 10/15 - 10/20
 	* Manager: Adam Buchinsky
