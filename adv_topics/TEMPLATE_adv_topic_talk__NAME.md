@@ -1,4 +1,4 @@
-Your Name:
+Your Name: Alexander Pujols Jr
 
 For each dimension (for the group and each individual presenter), score from
 1-5 (integer only). Provide any text comments in the "Other comments" prompt at
@@ -6,7 +6,7 @@ the end of the document.
 
 # CS1666 Advanced Topic Presentation Peer Evaluation
 
-## GROUP NAME HERE
+## Dungeon Crawler-- Networking
 
 * Group evaluation:
 	* Talk organization: 
@@ -16,22 +16,17 @@ the end of the document.
 	* Sufficient coverage: 
 	* Legibility: 
 
-* PRESENTER NAME HERE
+* Tristin Butz
 	* Pacing: 
 	* Clarity of speech: 
 	* Question handling: 
 
-* PRESENTER NAME HERE
+* Destiny Thompson
 	* Pacing: 
 	* Clarity of speech: 
 	* Question handling: 
 
-* PRESENTER NAME HERE
-	* Pacing: 
-	* Clarity of speech: 
-	* Question handling: 
-
-* PRESENTER NAME HERE
+* Zachary Stata
 	* Pacing: 
 	* Clarity of speech: 
 	* Question handling: 
