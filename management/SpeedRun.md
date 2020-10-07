@@ -31,7 +31,8 @@
 		1. Modify the game loop to incorporate networked multiplayer without affecting single-player, while avoiding multithreading
 		1. Make movement framerate independent
 		1. Make a camera class
-		1. Extend world/cave depth, adjust algorithm to ensure player can always fit through cave...
+		1. Extend world/cave depth, adjust algorithm to ensure player can always fit through cave
+		...
 1. 10/7 - 10/13
 	* Manager: Alex Pujols
 	* Goals:
