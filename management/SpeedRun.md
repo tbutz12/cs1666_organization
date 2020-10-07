@@ -36,10 +36,9 @@
 1. 10/7 - 10/13
 	* Manager: Alex Pujols
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Networking: Allow multiple client connections to the server to form the beginnings of a multiplayer session. 
+		1. Terrain: Fix cave generation on Linux, add spaces for future obstacles.
+		1. Physics: Allow for collision detection with multiple objects and revisit framerate independent code to improve existing implementation. 
 1. 10/15 - 10/20
 	* Manager: Spencer Miller
 	* Goals:
