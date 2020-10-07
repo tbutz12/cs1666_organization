@@ -38,10 +38,13 @@
 6. 10/7 - 10/13
 	* Manager: Connor Robinette
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Work on collision detection
+		2. Basic pathfinding for enemies
+		3. Refine an adaptive tiling system
+		4. Start working on hacker
+		5. Start working on puzzles
+		6. Frame-rate independent movement
+		
 7. 10/15 - 10/20
 	* Manager: NONE
 	* Goals:
