@@ -35,9 +35,9 @@
 1. 10/7 - 10/13
 	* Manager: Tristan Possessky
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement enemy and character wall collisions/hitboxes
+		2. Create a basic procedural level with tiled floors and walls
+		3. Create multiplayer framework (establish connection between 2 clients) 
 		...
 1. 10/15 - 10/20
 	* Manager: Myles Conlon
