@@ -6,7 +6,7 @@
 ## Presentation II (Oct. 21):
 # What is Binary Space Partitioning?
 * Method for recursively subdividing a space into two convex sets
-* History of BSP
+* History of Binary Space Partitioning
 # How does it work?
 * Creating the binary tree
 * Drawing the rectangles in each leaf node
@@ -16,9 +16,11 @@
 * Quake (1996)
 # Pros
 * Good for collision detection and handling
+* Easy to visualize with tiles/arrays
+* Produces noticeable randomness each time
 # Cons
-* Generating a BSP tree can be time-consuming
-* Can get rather complicated
+* Generating a BSP tree can be time-consuming/resource intensive
+* Can get rather complicated to implement
 # How did we implement it?
 * Variable parameters
   * Room size
@@ -26,7 +28,7 @@
   * Hallway size
   * Tile size
 Array integration
-SDL_Surface/Rect
+SDL_Surface/Rect Usage
 
 
 ## Presentation III (Nov. 2):
