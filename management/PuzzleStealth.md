@@ -41,8 +41,8 @@
 		1. Work on collision detection
 		2. Basic pathfinding for enemies
 		3. Refine an adaptive tiling system
-		4. Start working on hacker
-		5. Start working on puzzles
+		4. Create basic visual design and add basic functionality to the hacker screen
+		5. Make generic puzzle class
 		6. Frame-rate independent movement
 		
 7. 10/15 - 10/20
