@@ -22,24 +22,29 @@
 4. 9/23 - 9/29
 	* Manager: Celest Hayden
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Character looks in the direction of movement by changing sprite.
+		2. Only one window is used to display all game states.
+		3. Start blocking out class to manage tile properties, such as collision.
+		4. Create basic enemy type with simple movement loop.
+		5. Create hacker window.
 5. 9/30 - 10/6
 	* Manager: Turner Halligan
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Start working on networking skeleton code (Set up core functionality: Send data, Receive Data, Check consistency, etc)
+		2. Wall tile graphics. Objective tile graphics (Terminal, Door, Button)
+		3. Get enemy to move relative to global coordinates (Moves independent of camera)
+		4. Write enemy class skeleton code (Ability to draw multiple enemies on the screen. Manage multiple enemy states)
+		5. Get level generation working with static level array. (Draw method)
 6. 10/7 - 10/13
 	* Manager: Connor Robinette
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Work on collision detection
+		2. Basic pathfinding for enemies
+		3. Refine an adaptive tiling system
+		4. Create basic visual design and add basic functionality to the hacker screen
+		5. Make generic puzzle class
+		6. Frame-rate independent movement
+		
 7. 10/15 - 10/20
 	* Manager: NONE
 	* Goals:

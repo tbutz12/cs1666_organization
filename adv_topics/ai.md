@@ -1,4 +1,5 @@
-﻿# AI Advanced Topic Presentations
+
+# AI Advanced Topic Presentations
 
 ## Presentation I (Oct. 14):
 * What is Artificial Intelligence?
@@ -58,6 +59,4 @@
 
 ## Presentation III (Nov. 9):
 * 
-
-
 
