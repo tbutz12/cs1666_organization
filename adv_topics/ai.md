@@ -1,5 +1,4 @@
-
-# AI Advanced Topic Presentations
+﻿# AI Advanced Topic Presentations
 
 ## Presentation I (Oct. 14):
 * What is Artificial Intelligence?
@@ -25,38 +24,34 @@
     - Halo, Fear, Arkham Trilogy, Shadow of War, Alien: Isolation, Sims
 
 ## Presentation II (Oct. 26):
-* Review of last presentation
-    - Definitions
-    - Uses
-    - examples
+* Goals for AI in a Metroidvania
+    - Whittle down the player
+    - Guard extra areas
+    - In conjunction with level design, provide a difficult gauntlet for the player
 * Concepts to emulate
+    - “Rigid path” enemies (gordos, medusa heads from castlevania)
     - Hp gates
     - Reactionary behavior and adaptation
     - Modification via difficulty settings 
-    - Arbitrary boss resources to prevent predictable or unreactable move-spamming
+    - Arbitrary boss resources/cooldowns to prevent predictable or unfair move-spamming
 * Dynamic principles
-    - Bayes equation for spam filters and how filtering developed
-       - Naive learning
-    - Machine learning
-       - Statistical learning
+    - Behavior selection
+        - Deciding between rushing the player or waiting for the player to overextend
 * Planned implementation
     - Enemy behavior
-       - Unintelligent horde combat
-       - Gimmicky triggers and spawns
+        - Unintelligent horde combat
+        - Gimmicky triggers and spawns
     - Boss behavior
     - Group vs solo attacking
     - Varied pathing
-* Examples of Metroidvania A.I.
-    - Dead Cells
-       - React when on the same level; some enemies teleport to reach you
-    - Hollow Knight
-       - Known for difficult boss battles
+* Example of Metroidvania A.I.
     - Shovel Knight
-       - Difficult bosses, enemies used as springboards
-    - Castlevania
-       - Somewhat basic, but combined with clever level design makes it difficult
+        - Difficult bosses, enemies used as springboards
+
 	
 
 ## Presentation III (Nov. 9):
 * 
+
+
 
