@@ -47,9 +47,10 @@
 1. 10/15 - 10/20
 	* Manager: Adam Buchinsky
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Physics engine smoothing
+		1. Implement Projectiles (straight line, stop on contact)
+		1. Randomize elements of room generation (e.g. platforms, enemies, etc.)
+		1. Implement enemy that tracks the player
 		...
 1. 10/21 - 10/27
 	* Manager: Zack Hicks
