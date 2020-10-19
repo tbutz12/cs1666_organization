@@ -67,7 +67,59 @@ SDL_Surface/Rect Usage
 
 
 ## Presentation III (Nov. 2):
-* 
+* The problem
+	* Show off other games
+	* Talk caves specifically
+	* Talk non-procedural monument injection
+* Strategy
+	* Terrain generation is hard.
+	* Create basic terrain for physics and networking team to work with
+	* Start developing the tools we need…
+* XorShift - fast seeded RNG
+* Simplex Noise
+	* The difference between perlin and simplex
+	* Advantages of simplex
+	* Higher dimensional noise with simplex
+* Simplex Worms/Perlin Worms
+	* Slight twist! We need more control over our random worm’s directions
+	* We solve by using the simplex values as accelerations and not the velocities
+	* How to voxelize worm path into a thicc cave?
+		* Distance from point-to-line equation
+			* Get closest line to the point
+			* Do point to line equation
+			* Set voxel density accordingly (mess with constants)
+		* Circle cut-out
+			* Cut a gradient circle out of each point in the path
+		* Advantages/Disadvantages
+			* Point-to-line is faster
+			* For circle cut-out points need to be tightly packed
+			* Circle cut-out has easier implementation, especially with varying cave width
+* Marching Squares
+	* What is it
+		* Iterate cases
+		* The lookup tables
+		* Slight twist! Optimize for ambiguity between directions
+	* Our implementation
+		* Just fill squares at the cases of all on and all off.
+		* Use different rendering code for each individual case
+		* Simplify the case down into its triangles and its rectangles.
+		* Render rectangles
+		* Render triangles with a slope based line by line scanning algorithm (1px by n-px SDL lines)
+* Non-procedural terrain injection
+	* Easy creation (parse .bmp files)
+	* Parse all of them at game start time
+	* Name them by indexable pattern
+	* Define possible entry points (all will need a top/bottom/left/right)
+	* Add post-processing--on injection--to blend the edges with procedural terrain
+* Entity Spawning and Path Generation
+	* Spawn by raycast down from simplex worm points
+		* Prevents spawning on cave walls or outside of cave
+		* Its fast
+	* Enemy paths
+		* For walking enemies they need flat terrain
+		* Choose a direction and walk
+		* Turn around if too steep
+
 
 ## Presentation IV (Nov. 16):
 * 
