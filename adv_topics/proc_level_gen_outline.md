@@ -67,10 +67,7 @@ SDL_Surface/Rect Usage
 
 
 ## Presentation III (Nov. 2):
-* The problem
-	* Show off other games
-	* Talk caves specifically
-	* Talk non-procedural monument injection
+
 * Strategy
 	* Terrain generation is hard.
 	* Create basic terrain for physics and networking team to work with
