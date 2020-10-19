@@ -31,76 +31,76 @@ Applying Physics to our game
 
 ## Presentation II (Nov. 4):
 
-* Aproximation
+ Aproximation
 
-  * Some things are far too complex to simulate in real time
+   Some things are far too complex to simulate in real time
   
-   * Destruction
+    Destruction
    
-    * Realistic - Blender Simulation
+     Realistic - Blender Simulation
     
-    * Game
+     Game
     
-     * Minecraft - tnt
+      Minecraft - tnt
      
-     * Noita
+      Noita
      
-   * Fluid Dynamics
+    Fluid Dynamics
    
-    * Realistic - Another Blender Simulation
+     Realistic - Another Blender Simulation
     
-    * Game
+     Game
     
-     * Not generally close to realistic looking
+      Not generally close to realistic looking
      
-     * Minecraft - water
+      Minecraft - water
      
-     * GTA V - waves
+      GTA V - waves
      
-     * Mario - water level
+      Mario - water level
      
- * Some things don't have to be simulated at all times
+  Some things don't have to be simulated at all times
  
-  * Gravity when standing still
+   Gravity when standing still
   
 
-* Friction and Drag
+ Friction and Drag
 
- * On ground
+  On ground
  
- * In Water
+  In Water
  
- * In air
+  In air
  
   
-*Air Control
+Air Control
 
- * Different systems
+  Different systems
  
-  * Realistic - No air control
+   Realistic - No air control
   
-  * 2D
+   2D
   
-   * Mario
+    Mario
    
-   * Asteroid
+    Asteroid
    
-   * Metroid
+    Metroid
    
-  * 3D
+   3D
   
-   * Borderlands
+    Borderlands
    
-   * TF2
+    TF2
    
-   * Minecraft
+    Minecraft
    
 
-* Applying Physics to our game
+ Applying Physics to our game
 
- * Grappling Hook
+  Grappling Hook
  
- * Bouncing
+  Bouncing
  
- * Drag
+  Drag
  
