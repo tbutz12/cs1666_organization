@@ -4,10 +4,6 @@
 * 
 
 ## Presentation II (Oct. 28):
-* Very Briefly Refresh/Review Presentation I
-	* Layers of networking
-		* What is each layer responsible for?
-
 * UDP and TCP
 	* UDP
 		* What is UDP?
