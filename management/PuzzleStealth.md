@@ -48,9 +48,12 @@
 7. 10/15 - 10/20
 	* Manager: NONE
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Get rooms to generate in level
+		2. Finish enemy pathfinding
+		3. Add another enemy type
+		4. Add some gameplay to hacker window
+		5. Finish puzzle class and add some initial puzzles
+		6. Continue networking, working towards getting players in the same game
 		...
 8. 10/21 - 10/27
 	* Manager: Chris Godfrey
