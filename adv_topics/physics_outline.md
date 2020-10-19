@@ -48,9 +48,9 @@ Aproximation
  Some things don't have to be simulated at all times
   Gravity when standing still
  Friction and Drag
- On ground
- In Water
- In air
+  On ground
+  In Water
+  In air
  
 Air Control
  Different systems
