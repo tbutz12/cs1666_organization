@@ -42,9 +42,9 @@
 1. 10/15 - 10/20
 	* Manager: Myles Conlon
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement procedural floors into the map being drawn
+		1. Group textures into sprite maps
+		1. Have network client get and draw floor map
 		...
 1. 10/21 - 10/27
 	* Manager: Connor Allington
