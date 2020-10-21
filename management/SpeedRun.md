@@ -49,9 +49,10 @@
 1. 10/21 - 10/27
 	* Manager: Andrew Francioni
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Finish porting to the multifile system
+		1. Replace current cave generation system with one that uses Simplex worms and will allow the cave to extend upwards rather than just down/left/right
+		1. Get the generated levels to sync with multiple clients in multiplayer
+		1. Implement blocks with different levels of friction
 		...
 1. 10/28 - 11/3
 	* Manager: N/A
