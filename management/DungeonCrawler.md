@@ -49,9 +49,9 @@
 1. 10/21 - 10/27
 	* Manager: Connor Allington
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Generate chests with procedurally generated loot
+		1. Implement new enemy types with different behavior
+		1. Create a lobby for multiplayer connections
 		...
 1. 10/28 - 11/3
 	* Manager: Sebastian Marcano-Jimenez
