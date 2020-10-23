@@ -55,7 +55,7 @@
 1. 10/21 - 10/27
 	* Manager: Zach Hicks
 	* Goals:
-		1. Implement basic Enemy AI to track player and ability to interact (hurt) them
+		1. Add player tracking to eyeball enemy and begin implementing a second enemy that can run and jump
 		1. Complete implementation of projectiles physics and allow player to "shoot" a projectile that collides with the environment/enemy
 		1. Further improve procedural room generation - randomized platform and door location - ensure "coherent" rooms
 		...
