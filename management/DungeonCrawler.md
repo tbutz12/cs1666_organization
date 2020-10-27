@@ -56,9 +56,9 @@
 1. 10/28 - 11/3
 	* Manager: Sebastian Marcano-Jimenez
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Give procedurally loot different abilities depending on rarity and floor counter to be able to tell what level player is on and adjust loot accordingly
+		1. Make an enemy that will move more intelligently, attempting to dodge attacks (within reason) and fight smarter/less recklessly than just running at the player, while being much tankier than the average enemy
+		1. Finalize/debug lobby and start working on having players see each other move around the map accurately and in a synchronized fashion
 		...
 1. 11/4 - 11/10
 	* Manager: Andrew Preston
