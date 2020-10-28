@@ -66,10 +66,18 @@
 9. 10/28 - 11/3
 	* Manager: Patrick Rhee
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+	1. Add another enemy type (AI)
+	2. Create a line of sight for enemies (AI)
+	3. Finish/fix pathfinding for AI (AI)
+	4. Get a working puzzle framework going that we can use to start making puzzles (AI)
+	5. Put (randomized/level generated) doors in walls that that player can interact with. (Level Gen)
+	6. Rename hacker buttons to respective abilities (Networking)
+		1. Agent/enemy minimap
+		2. Interactables minimap (Doors, cameras, facility)
+		3. Documents (Instructions for hacker to to help agent)
+		4. Puzzle alert (When agent finds a 2-person puzzle, will light up for hacker to help)
+	7. Set up established means of communicating data between hacker and agent (e.g. agent's position) (networking)
+		* Get hacker to also see agent on minimap
 10. 11/4 - 11/10
 	* Manager: Erik Houseworth
 	* Goals:
