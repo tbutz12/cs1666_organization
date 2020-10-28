@@ -56,8 +56,8 @@
 1. 10/28 - 11/3
 	* Manager: Sebastian Marcano-Jimenez
 	* Goals:
-		1. Give procedurally loot different abilities depending on rarity and floor counter to be able to tell what level player is on and adjust loot accordingly
-		1. Make an enemy that will move more intelligently, attempting to dodge attacks (within reason) and fight smarter/less recklessly than just running at the player, while being much tankier than the average enemy
+		1. Give procedurally loot different abilities depending on rarity, work on environment collision detection, and add floor counter to be able to tell what level player is on and adjust loot accordingly
+		1. Fix sprite display error, and make an enemy that will move more intelligently, attempting to dodge attacks (within reason) and fight smarter/less recklessly than just running at the player
 		1. Be able to send/receive player coordinates for all players currently inside of the game
 		...
 1. 11/4 - 11/10
