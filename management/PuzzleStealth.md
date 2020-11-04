@@ -38,31 +38,46 @@
 6. 10/7 - 10/13
 	* Manager: Connor Robinette
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Work on collision detection
+		2. Basic pathfinding for enemies
+		3. Refine an adaptive tiling system
+		4. Create basic visual design and add basic functionality to the hacker screen
+		5. Make generic puzzle class
+		6. Frame-rate independent movement
+		
 7. 10/15 - 10/20
 	* Manager: NONE
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Get rooms to generate in level
+		2. Finish enemy pathfinding
+		3. Add another enemy type
+		4. Add some gameplay to hacker window
+		5. Finish puzzle class and add some initial puzzles
+		6. Continue networking, working towards getting players in the same game
 		...
 8. 10/21 - 10/27
 	* Manager: Chris Godfrey
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Have distinguishable rooms and basic objectives.
+        	2. Implement Basic Combat, Environment, and AI player Interactions.
+        	3. Have interactions between Hacker Screen and Spy Screen.
+       		4. Add cameras and adjust pathfinding if the spy is within a radius of the camera.
+        	5. Have interactable puzzles randomly generate within the level via the puzzle class.
 9. 10/28 - 11/3
 	* Manager: Patrick Rhee
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. Add another enemy type (AI)
+		2. Create a line of sight for enemies (AI)
+		3. Finish/fix pathfinding for AI (AI)
+		4. Get a working puzzle framework going that we can use to start making puzzles (AI)
+		5. Put (randomized/level generated) doors in walls that that player can interact with. (Level Gen)
+		6. Rename hacker buttons to respective abilities (Networking)
+			1. Agent/enemy minimap
+			2. Interactables minimap (Doors, cameras, facility)
+			3. Documents (Instructions for hacker to to help agent)
+			4. Puzzle alert (When agent finds a 2-person puzzle, will light up for hacker to help)
+		7. Set up established means of communicating data between hacker and agent (e.g. agent's position) (networking)
+			* Get hacker to also see agent on minimap
 10. 11/4 - 11/10
 	* Manager: Erik Houseworth
 	* Goals:

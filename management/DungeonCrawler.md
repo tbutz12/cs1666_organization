@@ -35,30 +35,30 @@
 1. 10/7 - 10/13
 	* Manager: Tristan Possessky
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement enemy and character wall collisions/hitboxes
+		2. Create a basic procedural level with tiled floors and walls
+		3. Create multiplayer framework (establish connection between 2 clients) 
 		...
 1. 10/15 - 10/20
 	* Manager: Myles Conlon
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Implement procedural floors into the map being drawn
+		1. Group textures into sprite maps
+		1. Have network client get and draw floor map
 		...
 1. 10/21 - 10/27
 	* Manager: Connor Allington
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Generate chests with procedurally generated loot
+		1. Implement new enemy types with different behavior
+		1. Create a lobby for multiplayer connections
 		...
 1. 10/28 - 11/3
 	* Manager: Sebastian Marcano-Jimenez
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Give procedurally loot different abilities depending on rarity, work on environment collision detection, and add floor counter to be able to tell what level player is on and adjust loot accordingly
+		1. Fix sprite display error, and make an enemy that will move more intelligently, attempting to dodge attacks (within reason) and fight smarter/less recklessly than just running at the player
+		1. Be able to send/receive player coordinates for all players currently inside of the game
 		...
 1. 11/4 - 11/10
 	* Manager: Andrew Preston
