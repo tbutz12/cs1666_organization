@@ -63,9 +63,9 @@
 1. 11/4 - 11/10
 	* Manager: Andrew Preston
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Procedurally generate weapons with strength based on current floor.
+		1. Get multiple players on screen using network multiplayer.
+		1. Finish knight enemy, start assassin enemy, start game master AI (establish data gathering arm and decision-making arm).
 		...
 1. 11/11 - 11/17
 	* Manager: Tristin Butz
