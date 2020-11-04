@@ -63,7 +63,7 @@
 1. 11/4 - 11/10
 	* Manager: Andrew Preston
 	* Goals:
-		1. Procedurally generate weapons with strength based on current floor.
+		1. Procedurally generate weapons with strength based on current floor, implement collisions with walls.
 		1. Get multiple players on screen using network multiplayer.
 		1. Finish knight enemy, start assassin enemy, start game master AI (establish data gathering arm and decision-making arm).
 		...
