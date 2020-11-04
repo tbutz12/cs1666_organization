@@ -81,10 +81,16 @@
 10. 11/4 - 11/10
 	* Manager: Erik Houseworth
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...
+		1. {AI} Implement Turrets that can kill Agent (LOS based)
+		2. {AI} Implement Guards pathing with a Field of View (FOV)
+		3. {AI} Review Pathfinding code to potentially fix Memory Leak
+		4. {AI} Implement two fully functioning puzzles that involve interaction with the Hacker
+		5. {AI} Add graphics that show when a guard changes state, like !, or ?
+		6. {Networking} Agent/Hacker sync game states through network
+		7. {Networking} Connect two computers together to play cooperatively
+		8. {Level Gen} Generate a full suite of Objectives (Switches, buttons, monitors, wires) that are interactable by the Agent
+		9. {Level Gen} Implement in-game UI improvements: Show Action Keys (E - interact with objects, P - bring up puzzles, Q - debug mode, Esc), Allow player to interact with Seeds (see their current seed, input a saved seed)
+		
 11. 11/11 - 11/17
 	* Manager: Anna Beach
 	* Goals:
