@@ -64,9 +64,10 @@
 1. 11/4 - 11/10
 	* Manager: Ryan Durkoske
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Test network functionality over a local network, and maybe over the internet
+		1. Add some interface for players to see and enter seeds for a level
+		1. Add boulders and moving platforms
+		1. Allow caves to travel upwards
 		...
 1. 11/11 - 11/17
 	* Manager: Jacob Musone
