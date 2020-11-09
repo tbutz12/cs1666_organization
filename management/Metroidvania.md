@@ -76,7 +76,14 @@
 1. 11/11 - 11/17
 	* Manager: Emil Kjenstad
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...		
+		1. Implement projectile Weapon
+		1. Add recoil
+		1. Smoothening the grappling hook
+		1. Implement AI guard from user attack
+		1. Implement chaser and chasee: One chases player, other runs away when attacked
+		1. Create the boss
+		1. Integrate powerups into room generation based on powerups
+		1. Paths exist to let the player reach the powerups
+		1. Create the premade rooms that connect sections
+		...
+

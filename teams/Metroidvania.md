@@ -72,14 +72,13 @@ A metroidvania with a focus on ranged combat and movement. The weapons and gadge
 * Physics Engine
 	* Rigid Body Collision
 		* Player character with the environment, enemies, and projectiles
-		* Melee weaponry with environment and enemies
 		* Projectiles from ranged weaponry on environment and enemies
 	* Movement
-		* Have gravity at a level which makes movement fun (ligher than Earth)
-		* Implement recoil on ranged weaponry and upon impact with melee weaponry
-		* Implement grappling with a the ability to hook onto any surface and move in a circular fashion from the point of rotation at an adjustible distance
+		* Have gravity at a level which makes movement fun (ligther than Earth)
+		* Implement recoil on ranged weaponry
+		* Implement ability to grapple to any point in room and pull yourself to that location
 		* Unique movement options like air dash and double jump
-		* Momentum increasing maximum speed after continuous uninterupted directional movement
+		* Unlockable movement options in the grappling hook and a double jump
 		
 	...
 * Artificial Intelligence
@@ -89,7 +88,7 @@ A metroidvania with a focus on ranged combat and movement. The weapons and gadge
 		* Enemies will move on a system that will allow them movement no matter how the level is generated
 		* Chasers that have similar movement abilities to the player and can hunt down the player 
 		* A similar enemy but instead of hunting the player, the player hunts them
-	* Implemnt boss AI
+	* Implement boss AI
 		* The boss will be far more intelligent than the basic enemies
 		* It will have the ability to strategize and learn throughout the encounter
 		* At different health points, it will change "phases"
@@ -101,6 +100,6 @@ A metroidvania with a focus on ranged combat and movement. The weapons and gadge
 	* Make sure all generated levels are playable
 		* Can the player reach from point to point with the powerups they have or can access?
 	* Create a system that generates levels according to the equipment/powerups the player has
-		* The system will have to know where certain key equipments are in the map, which is decided manually, and generate appropriately. 
-			* Ex: The pathway from powerup 1 and 2 can generate a pathway that requires powerup 1 but not 2. Shortcuts that require both are allowed as long as there is a way to get from poweup 1 to powerup 2 with just powerup 1.
+		* The system will have to know where certain key equipment are in the map, which is decided manually, and generate appropriately. 
+			* Ex: The pathway from powerup 1 and 2 can generate a pathway that requires powerup 1 but not 2. Shortcuts that require both are allowed as long as there is a way to get from powerup 1 to powerup 2 with just powerup 1.
 	...
