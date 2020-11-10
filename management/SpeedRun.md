@@ -72,7 +72,8 @@
 1. 11/11 - 11/17
 	* Manager: Jacob Musone
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...		
+		1. Make a GUI to take in an IP for multiplayer.
+		2. Render obstacles in single player and multiplayer enviroments.
+		3. Fix the bugs with rendering more than two players.
+		4. Detect when a player meets the win condition, and tell other players when somebody has won.
+		5. Make biomes distinct.	
