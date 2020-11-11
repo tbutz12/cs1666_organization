@@ -44,7 +44,7 @@
 		4. Create basic visual design and add basic functionality to the hacker screen
 		5. Make generic puzzle class
 		6. Frame-rate independent movement
-		
+
 7. 10/15 - 10/20
 	* Manager: NONE
 	* Goals:
@@ -90,11 +90,24 @@
 		7. {Networking} Connect two computers together to play cooperatively
 		8. {Level Gen} Generate a full suite of Objectives (Switches, buttons, monitors, wires) that are interactable by the Agent
 		9. {Level Gen} Implement in-game UI improvements: Show Action Keys (E - interact with objects, P - bring up puzzles, Q - debug mode, Esc), Allow player to interact with Seeds (see their current seed, input a saved seed)
-		
+
 11. 11/11 - 11/17
 	* Manager: Anna Beach
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
-		...		
+		1. (AI) Implement alarms that go off when puzzles fail to complete
+		2. (AI) Guards within a certain radius respond to alarms and turrets firing
+		3. (AI) Implement basic combat (agent can KO a guard who is looking the other way)
+		4. (AI) Implement at least one more puzzle type
+		5. (AI) Finish connecting puzzles with hacker
+		6. (Level Gen) Place puzzles/objectives in level
+		7. (Level Gen) Tracks objectives for level completion condition, generates new level when the current one is completed
+		8. (Level Gen) Randomly generate turret positions
+		9. (Level Gen) Randomly generate player starting position
+		10. (Networking) Hacker resets when agent resets
+		11. (Networking) Finish testing networking between two different machines
+		12. (Networking) Server hosting levels, stats
+		13. (Networking) Synchronous puzzle (both push button at same time)
+		14. (Networking) Add remaining hacker window functionality
+				- Utilities: turn off turrets, alarms, other subsystem functionality (work with AI)
+				- Documents: instructions for the game
+		15. (ALL TEAMS) Extensively test existing features for bugs and fix any that arise	
