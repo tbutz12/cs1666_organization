@@ -72,6 +72,8 @@
 	* Goals:
 		1. Networking: Have enemies render the same over the network to all clients in the game
 		1. Networking: Implement loot mechanics over network
+		1. Networking: Implement combat for enemies over network
+		1. Networking: Render sprite positions over network
 		1. AI: Finish assassin and knight enemies, finish Game Master
 		1. AI: Implement Enemy wall collisions
 		1. Procedural Generation: Finish loot generation for maps
