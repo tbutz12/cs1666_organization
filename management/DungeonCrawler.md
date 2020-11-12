@@ -70,7 +70,14 @@
 1. 11/11 - 11/17
 	* Manager: Tristin Butz
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Networking: Have enemies render the same over the network to all clients in the game
+		1. Networking: Implement loot mechanics over network
+		1. AI: Finish assassin and knight enemies, finish Game Master
+		1. AI: Implement Enemy wall collisions
+		1. Procedural Generation: Finish loot generation for maps
+		1. Procedural Generation: Polish Wall Collisions
+		1. Implement player attack on enemies
+		1. Implement a score system for the player, that keeps track of player stats including: damage done, damage taken
+		1. Networking/All: If any memory leaks exist, fix these errors
+		
 		...		
